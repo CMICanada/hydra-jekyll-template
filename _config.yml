@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: CMI Canada
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -12,11 +12,11 @@ disqus_shortname:
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
 author:
-  name:
-  email:
+  name: Tom Wu
+  email: tom.q.wu@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: CMI Canada
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
@@ -89,11 +89,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - RSS
@@ -108,4 +105,4 @@ _comments:
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
